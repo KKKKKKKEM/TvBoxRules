@@ -1,0 +1,1110 @@
+{
+  "video": {
+    "sites": [
+
+      {
+        "key": "kunyu77",
+        "name": "琨鈺七七 | 业余♻️",
+        "type": 3,
+        "api": "kunyu77_open.js"
+      },
+      {
+                "key": "xiaoya-tv",
+                "name": "小雅 | 业余♻️",
+                "type": 3,
+                "api": "xiaoya.js",
+                "ext": "https://222.248.200.97:8765/vod1/"
+            },
+      {
+        "key": "SSSP",
+        "name": "速搜视频 | 业余♻️",
+        "type": 3,
+        "api": "sssp_open.js"
+      },
+      {
+                "key": "yqk",
+                "name": "一起看 | 业余♻️",
+                "type": 3,
+                "api": "yqktv_open.js"
+      },
+      {
+        "key": "ikanbot",
+        "name": "爱看影视 | 业余♻️",
+        "type": 3,
+        "api": "ikanbot_open.js"
+      },
+      {
+        "key": "kkys",
+        "name": "快看影视 | 业余♻️",
+        "type": 3,
+        "api": "kkys_open.js"
+      },
+      
+      {
+        "key": "555dy",
+        "name": "555影视 | 业余♻️",
+        "type": 3,
+        "api": "./555dy_open.js"
+      },
+      {
+        "key": "ngsp",
+        "name": "南瓜影院 | 业余♻️",
+        "type": 3,
+        "api": "ng_open.js"
+      },
+      {
+        "key": "zxzj",
+        "name": "在线影视 | 业余♻️",
+        "type": 3,
+        "api": "zxzj_open.js"
+      },
+      {
+        "key": "libvio",
+        "name": "利播影视 | 业余♻️",
+        "type": 3,
+        "api": "libvio_open.js"
+      },
+      {
+        "key": "czzy",
+        "name": "厂长影视 | 业余♻️",
+        "type": 3,
+        "api": "czzy_open.js"
+      },
+      {
+        "key": "subaibai",
+        "name": "素白白 | 业余♻️",
+        "type": 3,
+        "api": "subaibai_open.js"
+      },
+      {
+        "key": "ytvip",
+        "name": "影探 | 业余♻️",
+        "type": 3,
+        "api": "yt.js",
+        "ext": "http://ytcms.lyyytv.cn/api.php/app/"
+      },
+      {
+        "key": "yanetflix",
+        "name": "鸭奈飞 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "https://yanetflix.me/api.php/app/"
+      },
+      {
+        "key": "1080dyw",
+        "name": "1080电影院 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "https://www.1080dyw.cc/api.php/v1.vod"
+      },
+      {
+        "key": "shijie",
+        "name": "视界 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "http://www.1080dyw.cc/api.php/v1.vod"
+      },
+      {
+        "key": "69mj",
+        "name": "美剧 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "https://www.69mj.com/xgapp.php/v2/"
+      },
+      {
+        "key": "aidi",
+        "name": "爱迪 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "https://api123.adys.app/xgapp.php/v3/"
+      },
+      {
+        "key": "yaya",
+        "name": "鸭鸭 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+      },
+      {
+        "key": "hello",
+        "name": "哈喽 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "http://www.miniku.cc/xgapp.php/v1/"
+      },
+      {
+        "key": "kuku",
+        "name": "酷酷 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "http://cms.realdou.cn:35264/api.php/app/"
+      },
+      {
+        "key": "beijihu",
+        "name": "极狐 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "https://www.kuin.one/api.php/app/"
+      },
+      {
+        "key": "miniku",
+        "name": "迷你 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "http://www.miniku.cc/xgapp.php/v1/"
+      },
+      {
+        "key": "天天视频",
+        "name": "天天 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "https://ttsp.live/api.php/app/"
+      },
+      {
+        "key": "玉米",
+        "name": "玉米 | 业余♻️",
+        "type": 3,
+        "api": "AppYsV2.js",
+        "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
+      },
+      {
+        "key": "suoni",
+        "name": "索尼 | 业余♻️",
+        "type": 3,
+        "api": "./caiji.js",
+        "ext": {
+          "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+          "categories": [
+            "动作片",
+            "喜剧片",
+            "爱情片",
+            "科幻片",
+            "恐怖片",
+            "剧情片",
+            "战争片",
+            "国产剧",
+            "欧美剧",
+            "韩剧",
+            "日剧",
+            "港剧",
+            "台剧",
+            "海外剧",
+            "大陆综艺",
+            "国产动漫"
+          ]
+        }
+      },
+      {
+        "key": "xinlang",
+        "name": "新浪 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8"
+      },
+      {
+        "key": "bdzy",
+        "name": "百度影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/"
+      },
+      {
+        "key": "bfzy",
+        "name": "暴风影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://bfzyapi.com/api.php/provide/vod/"
+      },
+      {
+        "key": "394tv",
+        "name": "39影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://www.394tv.com/api.php/provide/vod/"
+      },
+      {
+        "key": "languang",
+        "name": "蓝光影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "http://www.zzrhgg.com/api.php/provide/vod/"
+      },
+      {
+        "key": "lehuo",
+        "name": "乐活影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://cj.vodimg.top/api.php/provide/vod/"
+      },
+      {
+        "key": "piaoling",
+        "name": "飘零影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://p2100.net/api.php/provide/vod/"
+      },
+      {
+        "key": "shenmajuhe",
+        "name": "神马聚合影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://img.smdyw.top/api.php/provide/vod/"
+      },
+      {
+        "key": "yingtu",
+        "name": "影图影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://cj.vodimg.top/api.php/provide/vod/"
+      },
+      {
+        "key": "damo",
+        "name": "大漠影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://damozy.com/api.php/provide/vod/from/M3U8/"
+      },
+      {
+        "key": "feifan",
+        "name": "非凡 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
+      },
+      {
+        "key": "feisu",
+        "name": "飞速影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
+      },
+      {
+        "key": "guangsu",
+        "name": "光速影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+      },
+      {
+        "key": "hongniu",
+        "name": "红牛影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
+      },
+      {
+        "key": "ikun",
+        "name": "ikun影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://ikunzyapi.com/api.php/provide/vod"
+      },
+      {
+        "key": "jinying",
+        "name": "金鹰影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/"
+      },
+      {
+        "key": "jisu",
+        "name": "极速影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/"
+      },
+      {
+        "key": "kuaiche",
+        "name": "快车影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
+      },
+      {
+        "key": "liangzi",
+        "name": "量子影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
+      },
+      {
+        "key": "qihu",
+        "name": "奇虎影视 | 业余♻️",
+        "type": 3,
+        "api": "caiji.js",
+        "ext": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/"
+      },
+      {
+        "key": "cntv",
+        "name": "电视聚场 | 业余♻️",
+        "type": 3,
+        "api": "cntv_open.js"
+      },
+      {
+        "key": "ubestkid",
+        "name": "贝乐虎 | 业余♻️",
+        "type": 3,
+        "api": "ubestkid_open.js"
+      },
+      {
+        "key": "tuxiaobei",
+        "name": "兔小贝 | 业余♻️",
+        "type": 3,
+        "api": "tuxiaobei_open.js"
+      },
+      {
+        "key": "boosj",
+        "name": "童趣 | 业余♻️",
+        "type": 3,
+        "api": "boosj_open.js"
+      },
+      {
+        "key": "mybl",
+        "name": "我的哔哩 | 业余♻️",
+        "type": 3,
+        "api": "mybili_open.js"
+      },
+      {
+        "key": "bili",
+        "name": "哔哩 | 业余♻️",
+        "type": 3,
+        "api": "bili_open.js",
+        "ext": {
+          "categories": "音乐#动画#电影#电视剧#番剧#综艺#影视#国创#娱乐#游戏#搞笑#单机游戏#沙雕动画#沙雕穿越#沙雕",
+          "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"
+        }
+      },
+      {
+        "key": "sharenice",
+        "name": "短视频 | 业余♻️",
+        "type": 3,
+        "api": "sharenice_open.js"
+      },
+      {
+        "key": "nivod",
+        "name": "新泥巴[国外]| 业余♻️",
+        "type": 3,
+        "api": "nivod_op.js",
+        "ext": "888解忧愁"
+      },
+      {
+        "key": "duboku",
+        "name": "独播库[国外]| 业余♻️",
+        "type": 3,
+        "api": "duboku_open.js"
+      },
+      {
+        "key": "duboku2",
+        "name": "独播库[国内] | 业余♻️",
+        "type": 3,
+        "api": "duboku2_open.js"
+      },
+      {
+        "key": "kuqimv",
+        "name": "酷奇MV | 业余♻️",
+        "type": 3,
+        "api": "kuqimv_open.js"
+      },
+      {
+        "key": "230ts",
+        "name": "爱上听书 | 业余♻️",
+        "type": 3,
+        "api": "230ts_open.js"
+      },
+      {
+        "key": "0809",
+        "name": "DJ音乐网 | 业余♻️",
+        "type": 3,
+        "api": "dj0898_open.js"
+      },
+      {
+      "key": "紅牛資源",
+      "name": "紅牛資源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
+   },
+   {
+      "key": "量子資源",
+      "name": "量子資源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
+   },
+   {
+      "key": "開放電影",
+      "name": "開放電影 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://vod-demo.onrender.com/pubdovod.php"
+   },
+   {
+      "key": "优质资源库",
+      "name": "优质资源库 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://api.1080zyku.com/inc/api.php/provide/vod/"
+   },
+   {
+      "key": "39影視",
+      "name": "39影視 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://www.39kan.com/api.php/provide/vod/"
+   },
+   {
+      "key": "天堂资源",
+      "name": "天堂资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "http://vipmv.cc/api.php/provide/vod/"
+   },
+   {
+      "key": "乐活影视",
+      "name": "乐活影视 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://lehootv.com/api.php/provide/vod/"
+   },
+   {
+      "key": "唐人街",
+      "name": "唐人街 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://www.tangrenjie.tv/api.php/provide/vod/"
+   },
+   {
+      "key": "酷点资源",
+      "name": "酷点资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://api.kuapi.cc/api.php/provide/vod/"
+   },
+   {
+      "key": "卧龙资源",
+      "name": "卧龙资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://collect.wolongzyw.com/api.php/provide/vod/"
+   },
+   {
+      "key": "酷点资源",
+      "name": "酷点资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://kudian10.com/api.php/provide/vod/"
+   },
+   {
+      "key": "唐人街",
+      "name": "唐人街 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://www.tangrenjie.tv/api.php/provide/vod/at/xm"
+   },
+   {
+      "key": "森林资源",
+      "name": "森林资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://slapibf.com/api.php/provide/vod/"
+   },
+   {
+      "key": "影库资源网",
+      "name": "影库资源网 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://api.ykapi.net/api.php/provide/vod/"
+   },
+   {
+      "key": "快车资源",
+      "name": "快车资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
+   },
+   {
+      "key": "探探资源",
+      "name": "探探资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://apittzy.com/api.php/provide/vod/"
+   },
+   {
+      "key": "閃電資源",
+      "name": "閃電資源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/"
+   },
+   {
+      "key": "金鹰资源",
+      "name": "金鹰资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/"
+   },
+   {
+      "key": "光速资源",
+      "name": "光速资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+   },
+   {
+      "key": "奥斯卡资源网",
+      "name": "奥斯卡资源网 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://aosikazy.com/api.php/provide/vod/"
+   },
+   {
+      "key": "老鸭资源采集",
+      "name": "老鸭资源采集 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://api.apilyzy.com/api.php/provide/vod/"
+   },
+   {
+      "key": "U酷资源",
+      "name": "U酷资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://api.ukuapi.com/api.php/provide/vod/"
+   },
+   {
+      "key": "北斗星资源",
+      "name": "北斗星资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://m3u8.bdxzyapi.com/api.php/provide/vod/"
+   },
+   {
+      "key": "樱花资源网",
+      "name": "樱花资源网 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
+   },
+   {
+      "key": "酷点资源",
+      "name": "酷点资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://api.kuapi.cc/api.php/provide/vod/"
+   },
+   {
+      "key": "闪电资源",
+      "name": "闪电资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "http://sdzyapi.com/api.php/provide/vod/"
+   },
+   {
+      "key": "飞速资源",
+      "name": "飞速资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://www.feisuzy.com/api.php/provide/vod/"
+   },
+   {
+      "key": "快播资源",
+      "name": "快播资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "http://www.kuaibozy.com/api.php/provide/vod/"
+   },
+   {
+      "key": "百度资源",
+      "name": "百度资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://api.apibdzy.com/api.php/provide/vod/"},
+   {
+      "key": "艾旦影视",
+      "name": "艾旦影视 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://lovedan.net/api.php/provide/vod/"
+   },
+   {
+      "key": "飘花电影",
+      "name": "飘花电影 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "http://www.zzrhgg.com/api.php/provide/vod/"
+   },
+   {
+      "key": "网民电影",
+      "name": "网民电影 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://www.prinevillesda.org/api.php/provide/vod/"
+   },
+   {
+      "key": "丝袜资源",
+      "name": "丝袜资源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://siwazyw.cc/api.php/provide/vod/"
+   },
+   {
+      "key": "天空資源",
+      "name": "天空資源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/"
+   },
+   {
+      "key": "海外看資源",
+      "name": "海外看資源 | 业余♻️",
+      "type": 1,
+      "api": "caiji.js",
+      "ext": "https://haiwaikan.com/api.php/provide/vod/"
+   },
+   {
+      "key": "555一（APP） | 业余♻️",
+      "name": "555一（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://555dy3.com/api.php/app/"
+   },
+   {
+      "key": "F7好看剧（APP）",
+      "name": "F7好看剧（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.f7hkj.cc/api.php/app/"
+   },
+   {
+      "key": "旧梦影视（APP）",
+      "name": "旧梦影视（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://43.139.139.17:4433/api.php/app/"
+   },
+   {
+      "key": "大米星球（APP）",
+      "name": "大米星球（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://dmdy2.vip/api.php/app/"
+   },
+   {
+      "key": "HOHO（APP）",
+      "name": "HOHO（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://hoho.tv/api.php/app/"
+   },
+   {
+      "key": "落攻阁（APP）",
+      "name": "落攻阁（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.lggys.cn/api.php/app/"
+   },
+   {
+      "key": "空气屋（APP）",
+      "name": "空气屋（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.airfun.fun/xgapp.php/v2/"
+   },
+   {
+      "key": "icio（APP）",
+      "name": "icio（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.icio.cc/api.php/app/"
+   },
+   {
+      "key": "布衣（APP）",
+      "name": "布衣（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://byyy5.com/api.php/app/"
+   },
+   {
+      "key": "明帝（APP）",
+      "name": "明帝（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://ys.md214.cn/api.php/app/"
+   },
+   {
+      "key": "速看100（APP）",
+      "name": "速看100（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://sk100.tv/api.php/app/"
+   },
+   {
+      "key": "聚合（APP）",
+      "name": "聚合（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://xn--yeta099v.online:66/api.php/app/"
+   },
+   {
+      "key": "路人甲（APP）",
+      "name": "路人甲（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://dytt996.com//api.php/app/"
+   },
+   {
+      "key": "青豆（APP）",
+      "name": "青豆（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://goodluckzy.com/qingdoujiekou.php/v1.vod"
+   },
+   {
+      "key": "枇杷（APP）",
+      "name": "枇杷（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.pipamovie.com//mogai_api.php/v1.vod "
+   },
+   {
+      "key": "木白（APP）",
+      "name": "木白（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.chiguafilm.com/api.php/v1.vod "
+   },
+   {
+      "key": "阿里（APP）",
+      "name": "阿里（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://aliys.cn:91/api.php/v1.vod"
+   },
+   {
+      "key": "看剧吧（APP）",
+      "name": "看剧吧（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://app.ishen520.com/api.php/v1.vod "
+   },
+   {
+      "key": "COKEMV（APP）",
+      "name": "COKEMV（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://cokemv.me/xgapp.php/v2/"
+   },
+   {
+      "key": "宝仙（APP）",
+      "name": "宝仙（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://webdillo.com/api.php/app/"
+   },
+   {
+      "key": "何以（APP）",
+      "name": "何以（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://www.heyik.cn/api.php/v1.vod"
+   },
+   {
+      "key": "少泽影客（APP）",
+      "name": "少泽影客（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://yk.shaozeyy.com/api.php/app/"
+   },
+   {
+      "key": "无限影视网（APP）",
+      "name": "无限影视网（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.wxtv.net/api.php/app/"
+   },
+   {
+      "key": "TV酷（APP）",
+      "name": "TV酷（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+   },
+   {
+      "key": "天天美剧网（APP）",
+      "name": "天天美剧网（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.ttmja.com/api.php/app/"
+   },
+   {
+      "key": "迷你库（APP）",
+      "name": "迷你库（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
+   },
+   {
+      "key": "鹿缘（APP）",
+      "name": "鹿缘（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://iuio.xyz/api.php/app/"
+   },
+   {
+      "key": "真爱（APP）",
+      "name": "真爱（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.chiguafilm.com/api.php/v1.vod "
+   },
+   {
+      "key": "悟空（APP）",
+      "name": "悟空（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://dapi.pntao.com/api.php/v1.vod "
+   },
+   {
+      "key": "如意（APP）",
+      "name": "如意（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://cms.maoyingshi.cc/api.php/app/"
+   },
+   {
+      "key": "君离（APP）",
+      "name": "君离（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://jlys6.top/mogai_api.php/v1.vod"
+   },
+   {
+      "key": "盈联（APP）",
+      "name": "盈联（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://tt.uutv.cc/api.php/app/"
+   },
+   {
+      "key": "东方（APP）",
+      "name": "东方（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.dfspapp.com//api.php/app/"
+   },
+   {
+      "key": "影视之家（APP）",
+      "name": "影视之家（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "http://yszj.cm/xgapp.php/v2/"
+   },
+   {
+      "key": "HG（APP）",
+      "name": "HG（APP） | 业余♻️",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://hong.hgyx.vip/api.php/v1.vod"
+   },
+   {
+      "key": "映迷（APP-搜索需用繁体字、海外源需挂梯子）",
+      "name": "映迷（APP-搜索需用繁体字、海外源需挂梯子）",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.inmi.app/xgapp.php/v1/"
+   },
+   {
+      "key": "UM（APP-手机4G网专用 | 业余♻️）",
+      "name": "UM（APP-手机4G网专用 | 业余♻️）",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.umkan.cc/mogai_api.php/v1.vod"
+   },
+   {
+      "key": "555二（APP-手机4G网不可用）",
+      "name": "555二（APP-手机4G网不可用 | 业余♻️）",
+      "type": 3,
+      "api": "AppYsV2.js",
+      "ext": "https://www.555dy5.com/api.php/app/"
+   }
+    ]
+  },
+  "read": {
+    "sites": [
+      {
+        "key": "bookan",
+        "name": "博看【🎧】| 业余♻️",
+        "type": 10,
+        "api": "bookan_open.js"
+      },
+      {
+        "key": "230ts",
+        "name": "230听书【🎧】| 业余♻️",
+        "type": 10,
+        "api": "230ts_book_open.js"
+      },
+      {
+        "key": "dj",
+        "name": "dj音乐网【🎧】| 业余♻️",
+        "type": 10,
+        "api": "dj0898_book_open.js"
+      },
+      {
+        "key": "laobaigushi",
+        "name": "老白故事【🎧】| 业余♻️",
+        "type": 10,
+        "api": "lbgs_open.js"
+      }
+    ]
+  },
+  "pan": {
+    "sites": [
+      {
+        "key": "alist",
+        "name": "Alist",
+        "type": 40,
+        "api": "alist_open.js",
+        "ext": [
+          {
+            "name": "🙋丫仙女",
+            "server": "http://alist.xiaoya.pro/",
+            "startPage": "/",
+            "showAll": false,
+            "search": true,
+            "headers": {
+              "Authorization": ""
+            },
+            "params": {
+              "/abc": {
+                "password": "123"
+              },
+              "/abc/abc": {
+                "password": "123"
+              }
+            }
+          },
+          {
+            "name": "🔞罗汉果",
+            "server": "https://lala-ofbip.run.goorm.site/"
+          },
+          {
+            "name": "✨合集大全",
+            "server": "http://www.jczyl.top:5244/"
+          },
+          {
+            "name": "✨东哥",
+            "server": "http://101.34.67.237:5244/"
+          },
+          {
+            "name": "✨美云",
+            "server": "https://h.dfjx.ltd/"
+          },
+          {
+            "name": "✨小新盘",
+            "server": "https://pan.cdnxin.top/"
+          },
+          {
+            "name": "✨白云tv",
+            "server": "http://breadmyth.asuscomm.com:22222/"
+          },
+          {
+            "name": "✨小雅分类",
+            "server": "http://www.214728327.xyz:5201/"
+          },
+          {
+            "name": "✨瑶瑶",
+            "server": "https://lyly.run.goorm.io/"
+          },
+          {
+            "name": "✨潇洒个人",
+            "server": "https://alist.azad.asia/"
+          },
+          {
+            "name": "✨鹏程",
+            "server": "https://pan.pengcheng.team/"
+          },
+          {
+            "name": "✨轻弹浅唱",
+            "server": "http://vtok.pp.ua/"
+          },
+          {
+            "name": "✨小丫",
+            "server": "http://alist.xiaoya.pro/"
+          },
+          {
+            "name": "✨触光",
+            "server": "https://pan.ichuguang.com"
+          },
+          {
+            "name": "✨星梦",
+            "server": "https://pan.bashroot.top"
+          },
+          {
+            "name": "✨弱水分享",
+            "server": "http://shicheng.wang:555/"
+          },
+          {
+            "name": "✨神器云",
+            "server": "https://alist.ygxz.xyz/"
+          },
+          {
+            "name": "✨资源大站",
+            "server": "https://pan.ecve.cn/"
+          },
+          {
+            "name": "✨雨呢",
+            "server": "https://pan.clun.top/"
+          },
+          {
+            "name": "✨OEIO",
+            "server": "https://o.oeio.repl.co/"
+          },
+          {
+            "name": "✨悦享盘",
+            "server": "https://nics.eu.org/"
+          },
+          {
+            "name": "✨分享者",
+            "server": "https://ofoo.ml/"
+          },
+          {
+            "name": "✨PRO",
+            "server": "https://alist.prpr.run/"
+          },
+          {
+            "name": "✨小陈",
+            "server": "https://ypan.cc/"
+          },
+          {
+            "name": "✨一只鱼",
+            "server": "https://alist.youte.ml"
+          },
+          {
+            "name": "✨七米蓝",
+            "server": "https://al.chirmyram.com"
+          },
+          {
+            "name": "✨神族九帝",
+            "server": "https://alist.shenzjd.com"
+          },
+          {
+            "name": "✨姬路白雪",
+            "server": "https://pan.jlbx.xyz"
+          },
+          {
+            "name": "✨星梦",
+            "server": "https://pan.bashroot.top"
+          },
+          {
+            "name": "✨repl",
+            "server": "https://ali.liucn.repl.co"
+          },
+          {
+            "name": "✨讯维云盘",
+            "server": "https://pan.xwbeta.com"
+          }
+        ]
+      }
+    ]
+  }
+}

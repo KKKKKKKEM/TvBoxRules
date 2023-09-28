@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/XYQTVBox.json",
+      "name": "香雅情"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/drpy_js/drjs_config.json",
+      "name": "道长"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/Yoursmile/XC.json",
+      "name": "南风"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/nangua.json",
+      "name": "南瓜"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/fan.json",
+      "name": "饭太硬"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/fongmi.json",
+      "name": "蜂蜜"
+    }
+  ]
+}
