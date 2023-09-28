@@ -472,7 +472,7 @@
     ],
     "sites": [
         {
-            "api": "./js/ng_open.js",
+            "api": "js/ng_open.js",
             "filterable": 1,
             "key": "cat_js_ng",
             "name": "🐱南瓜[CAT]",
