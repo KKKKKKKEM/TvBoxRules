@@ -5,11 +5,15 @@
       "name": "香雅情"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/drpy_js/drjs_config.json",
+      "url": "http://ftp6587948.host121.Sanfengyun.cn/yydf/yydf.json",
+      "name": "业余打发"
+    },
+    {
+      "url": "https://pastebin.com/raw/5NHaxyGR",
       "name": "道长"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/Yoursmile/XC.json",
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
       "name": "南风"
     },
     {
@@ -23,6 +27,14 @@
     {
       "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/fongmi.json",
       "name": "蜂蜜"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "高天流云js"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "name": "高天流云XYQ"
     }
   ]
 }
