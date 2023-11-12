@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/XYQTVBox.json",
+      "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/XYQTVBox.json",
       "name": "香雅情"
     },
     {
@@ -17,23 +17,23 @@
       "name": "南风"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/nangua.json",
+      "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/nangua.json",
       "name": "南瓜"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/fan.json",
+      "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/fan.json",
       "name": "饭太硬"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/fongmi.json",
+      "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/fongmi.json",
       "name": "蜂蜜"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/js.json",
       "name": "高天流云js"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "高天流云XYQ"
     }
   ]
