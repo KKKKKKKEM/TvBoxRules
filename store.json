@@ -1,44 +1,81 @@
 {
-  "urls": [
-    {
-      "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/XYQTVBox.json",
-      "name": "香雅情"
-    },
-    {
-      "url": "https://raw.gitmirror.com/yyfxz/fxz/main/yyfx.json",
-      "name": "业余打发"
-    },
-    {
-      "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/drpy_js/drjs_config.json",
-      "name": "道长"
-    },
-    {
-      "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/fty/fty.json",
-      "name": "饭太硬"
-    },
-    {
-      "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/qiaoji/qjtvbox.json",
-      "name": "巧计"
-    },
-    {
-      "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/XYQTVBox/Yoursmile/XC.json",
-      "name": "南风"
-    },
-    {
-      "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/nangua.json",
-      "name": "南瓜"
-    },
-    {
-      "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/fongmi.json",
-      "name": "蜂蜜"
-    },
-    {
-      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/js.json",
-      "name": "高天流云js"
-    },
-    {
-      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/XYQ.json",
-      "name": "高天流云XYQ"
-    }
-  ]
+    "warningText": "关注公众号:业余打发，分享者随时更新。",
+    "urls": [
+        {
+            "name": "👨｜业余本地｜👨",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/bd/yydf.json"
+        },
+        {
+            "name": "♻️｜PG本地｜♻️",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/bd/pg.json"
+        },
+        {
+            "name": "🔥业余｜OK本地🔥",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/bd/ok/ok.json"
+        },
+        {
+            "name": "🌨业余｜阿里魔镇🌨",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/bd/ali.json"
+        },
+        {
+            "name": "🐝业余｜天下第一🐝",
+            "url": "https://fm.t4tv.hz.cz/json/config.json"
+        },
+        {
+            "name": "🍑业余｜无名影视🍑",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/bd/wm.json"
+        },
+        {
+            "name": "☘️业余｜高天影视☘️",
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"
+        },
+        {
+            "name": "‍⛈业余｜云星日记🌨",
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
+        },
+        {
+            "name": "‍🐾业余｜猫爪本地🐾",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/bd/watson/watson.json"
+        },
+        {
+            "name": "🍚业余｜神秘小米🍚",
+            "url": "http://xhww.fun:63/小米/DEMO.json"
+        },
+        {
+            "name": "🌻业余｜香神本地🌻",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/bd/xyq.json"
+        },
+        {
+            "name": "🌾业余｜饭太坚硬🌾",
+            "url": "http://饭太硬.top/tv"
+        },
+        {
+            "name": "🐼业余｜肥猫美妞🐼",
+            "url": "http://肥猫.live"
+        },
+        {
+            "name": "🌱业余｜菜妮丝佬🌱",
+            "url": "https://tvbox.cainisi.cf"
+        },
+        {
+            "name": "🍓业余｜小胡新线路🍓",
+            "url": "http://xiaohu.xzam.cn/xiaohu"
+        },
+        {
+            "name": "🐈业余｜巧技本地🐈",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/bd/qiaoji/qjtvbox.json"
+        },
+        {
+            "name": "🦆业余｜南风本地🦆",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/bd/nf/XC.json"
+        },
+        {
+            "name": "🦹‍业余｜道长本地🦹‍♂️",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/bd/drpy/dz.json"
+        },
+        {
+            "name": "🤹🏼业余｜少儿本地🤹🏼",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/bd/srpd.json"
+        }
+    ]
 }
