@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/ok.png;md5;EE31F8DE623D7DF3D29BBC45E8504A40",
+    "spider": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/jar/ok.png;md5;EE31F8DE623D7DF3D29BBC45E8504A40",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -32,7 +32,7 @@
             "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-                "filter": "./ok/wogg.json",
+                "filter": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/wogg.json",
                 "danmu": true
             },
             "timeout": 25
@@ -47,7 +47,7 @@
             "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-                "filter": "./ok/wogg.json",
+                "filter": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/wogg.json",
                 "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark_cookie.txt",
                 "site": "https://www.weixine.net",
                 "danmu": true
@@ -162,7 +162,7 @@
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./ok/duboku.json",
+            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/duboku.json",
             "timeout": 25
         },
         {
@@ -258,8 +258,8 @@
             "key": "虎牙直播js",
             "name": "虎牙┃直播",
             "type": 3,
-            "api": "./ok/drpy2.min.js",
-            "ext": "./ok/虎牙直播.js",
+            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/drpy2.min.js",
+            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/虎牙直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -273,8 +273,8 @@
             "key": "csp_XYQBiu_斗鱼",
             "name": "斗鱼┃直播",
             "type": 3,
-            "api": "./ok/drpy2.min.js",
-            "ext": "./ok/斗鱼直播.js",
+            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/drpy2.min.js",
+            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/斗鱼直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -288,8 +288,8 @@
             "key": "csp_聚短视频",
             "name": "聚短┃视频",
             "type": 3,
-            "api": "./ok/drpy2.min.js",
-            "ext": "./ok/短视频.js",
+            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/drpy2.min.js",
+            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/短视频.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -299,8 +299,8 @@
             "key": "有声小说js",
             "name": "有声┃小说",
             "type": 3,
-            "api": "./ok/drpy2.min.js",
-            "ext": "./ok/有声小说吧.js",
+            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/drpy2.min.js",
+            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/有声小说吧.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -371,7 +371,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./ok/alist.json",
+            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/ok/alist.json",
             "timeout": 25
         },
         {

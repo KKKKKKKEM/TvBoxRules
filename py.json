@@ -1,12 +1,12 @@
 {
-    "spider": "./jar/py.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
+    "spider": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/jar/py.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
             "key": "py_ali",
             "name": "阿里系列",
             "type": 3,
-            "api": "./py/py_ali.py",
+            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/py/py_ali.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -19,7 +19,7 @@
             "key": "py_cntv",
             "name": "央视",
             "type": 3,
-            "api": "./py/py_cntv.py",
+            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/py/py_cntv.py",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -28,19 +28,19 @@
             "key": "py_live",
             "name": "直播",
             "type": 3,
-            "api": "./py/py_live.py",
+            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/py/py_live.py",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "url": "./py/live.json"
+                "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/py/live.json"
             }
         },
         {
             "key": "py_bilibilivd",
             "name": "B站视频",
             "type": 3,
-            "api": "./py/py_bilibilivd.py",
+            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/py/py_bilibilivd.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -52,7 +52,7 @@
             "key": "py_bilibilimd",
             "name": "B站番剧",
             "type": 3,
-            "api": "./py/py_bilibilimd.py",
+            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/py/py_bilibilimd.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -64,7 +64,7 @@
             "key": "py_firstaid",
             "name": "急救指南",
             "type": 3,
-            "api": "./py/py_firstaid.py",
+            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/py/py_firstaid.py",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -85,7 +85,7 @@
             "key": "py_alist",
             "name": "Alist网盘",
             "type": 3,
-            "api": "./py/py_alist.py",
+            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/py/py_alist.py",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -325,7 +325,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./py/live.txt",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/py/live.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -334,7 +334,7 @@
         {
             "name": "ipv6",
             "type": 0,
-            "url": "./py/ipv6.m3u",
+            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/py/ipv6.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
