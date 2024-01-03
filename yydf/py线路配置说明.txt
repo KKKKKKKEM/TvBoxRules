@@ -1,6 +1,0 @@
-注：
-1 py_ali.py配置中 thread 可不填写，此时使用转存原画，转存原画报错自动切换旧api 10线程。
-2 py_bilibilivd.py 与 py_bilibilimd 配置文件写法完全相同。
-3 py_bilibilivd.py配置中 优先使用json配置，cookie可直接填写在json文件中或在cookie参数下填写，优先使用json中的cookie。分类信息可使用json文件、categories参数或type参数，优先调用json文件中的分类。
-
-阿里的ext多了个thread，用来指定线程数，同时根据线程数选择是否使用转存原画
