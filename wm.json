@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/jar/Yoursmile.jar;md5;3ad83103b8e8dcfe6ee516c998117496",
+    "spider": "./jar/Yoursmile.jar;md5;3ad83103b8e8dcfe6ee516c998117496",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
