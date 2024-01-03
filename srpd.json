@@ -5,29 +5,29 @@
             "key": "腾讯1",
             "name": "🌏少儿频道🌏”专区",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/腾讯.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/腾讯.js"
         },
         {
             "key": "芒果1",
             "name": "🎈 少儿频道2",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/忙果.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/忙果.js"
         },
         {
             "key": "奇艺1",
             "name": "🎈 少儿频道3",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/异兽.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/异兽.js"
         },
         {
             "key": "优酷1",
             "name": "🎈 少儿频道4",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/优酷.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/优酷.js"
         },
         {
             "key": "py_cctv",
@@ -37,7 +37,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/py_cctv.py"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/py_cctv.py"
         },
         {
             "key": "py_cctvdh",
@@ -47,29 +47,29 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/py_cctvdh.py"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/py_cctvdh.py"
         },
         {
             "key": "csp_XYQHiker_兔小贝",
             "name": "🎈 兔小贝1",
             "type": 3,
-            "jar": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/xyq.jar",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/xyq.jar",
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/兔小贝.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/兔小贝.json"
         },
         {
             "key": "csp_XYQHiker_兔小贝2",
             "name": "🎈 兔小贝2",
             "type": 3,
-            "jar": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/xyq.jar",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/xyq.jar",
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/兔小贝2.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/兔小贝2.json"
         },
         {
             "key": "ysjd",
@@ -79,14 +79,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/央视经典.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/央视经典.json"
         },
         {
             "key": "童趣",
             "name": "🎈 童趣",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/童趣.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/童趣.js"
         },
         {
             "key": "幼儿启蒙",
@@ -96,7 +96,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/幼儿启蒙.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/幼儿启蒙.json"
         },
         {
             "key": "益智",
@@ -106,7 +106,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/益智动画.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/益智动画.json"
         },
         {
             "key": "少儿教育",
@@ -116,7 +116,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/少儿教育.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/少儿教育.json"
         },
         {
             "key": "幼儿乐园",
@@ -126,7 +126,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/幼儿乐园.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/幼儿乐园.json"
         },
         {
             "key": "儿童",
@@ -136,7 +136,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童乐园.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童乐园.json"
         },
         {
             "key": "学习",
@@ -146,7 +146,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/学习园地.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/学习园地.json"
         },
         {
             "key": "幼小衔接",
@@ -156,13 +156,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/幼小衔接.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/幼小衔接.json"
         },
         {
             "key": "少儿小灯塔专区",
             "name": "“🔮少儿灯塔学习库”专区🔮",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/协议.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/协议.js",
             "ext": "clan://proxy?sourcekey=ext_live_protocol"
         },
         {
@@ -173,7 +173,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/小灯塔百科.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/小灯塔百科.json"
         },
         {
             "key": "小灯塔科学",
@@ -183,7 +183,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/小灯塔科学.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/小灯塔科学.json"
         },
         {
             "key": "小灯塔地理",
@@ -193,7 +193,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/小灯塔地理.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/小灯塔地理.json"
         },
         {
             "key": "小灯塔国学",
@@ -203,7 +203,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/小灯塔国学.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/小灯塔国学.json"
         },
         {
             "key": "小灯塔人文",
@@ -213,7 +213,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/小灯塔人文.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/小灯塔人文.json"
         },
         {
             "key": "儿童拼音",
@@ -223,7 +223,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童拼音.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童拼音.json"
         },
         {
             "key": "儿童识字",
@@ -233,7 +233,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童识字.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童识字.json"
         },
         {
             "key": "儿童英语",
@@ -243,7 +243,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童英语.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童英语.json"
         },
         {
             "key": "儿童硬笔",
@@ -253,7 +253,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童硬笔.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童硬笔.json"
         },
         {
             "key": "儿童思维",
@@ -263,7 +263,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童思维.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童思维.json"
         },
         {
             "key": "儿童口才",
@@ -273,7 +273,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童口才.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童口才.json"
         },
         {
             "key": "儿童编程",
@@ -283,7 +283,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童编程.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童编程.json"
         },
         {
             "key": "儿童武术",
@@ -293,7 +293,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童武术.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/儿童武术.json"
         },
         {
             "key": "兴趣培养",
@@ -303,7 +303,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/兴趣培养.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/兴趣培养.json"
         },
         {
             "key": "小学",
@@ -313,7 +313,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/哔哩哔哩小学.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/哔哩哔哩小学.json"
         },
         {
             "key": "初中",
@@ -323,7 +323,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/哔哩哔哩初中.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/哔哩哔哩初中.json"
         },
         {
             "key": "高中",
@@ -333,7 +333,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/哔哩哔哩高中.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/哔哩哔哩高中.json"
         },
         {
             "key": "py_youer",
@@ -343,7 +343,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/幼儿.py"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/幼儿.py"
         },
         {
             "key": "py_xiaoxue",
@@ -353,7 +353,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/小学.py"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/小学.py"
         },
         {
             "key": "py_czxx",
@@ -363,7 +363,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/初中.py"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/初中.py"
         },
         {
             "key": "csp_Bili",
@@ -373,7 +373,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/吾爱动物世界.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/吾爱动物世界.json"
         },
         {
             "key": " py_中国文化",
@@ -383,7 +383,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/yydf/py_中国文化.py"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/yydf/py_中国文化.py"
         }
     ],
     "parses": [

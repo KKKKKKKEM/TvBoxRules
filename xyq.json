@@ -6,7 +6,7 @@
             "name": "本地live文件",
             "type": "0",
             "pass": true,
-            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/live.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/live.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -14,7 +14,7 @@
             "name": "FMM_IPV6",
             "type": "0",
             "pass": true,
-            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/ipv6.m3u",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/ipv6.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
@@ -34,36 +34,36 @@
             "key": "drpy_js_豆瓣",
             "name": "豆瓣[js]",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy.js"
         },
         {
             "key": "drpy_js_奇珍异兽",
             "name": "奇珍异兽[js]",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/奇珍异兽.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/奇珍异兽.js"
         },
         {
             "key": "drpy_js_优酷",
             "name": "优酷[js]",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/优酷.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/优酷.js"
         },
         {
             "key": "drpy_js_腾云驾雾",
             "name": "腾云驾雾[js]",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/腾云驾雾.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/腾云驾雾.js"
         },
         {
             "key": "drpy_js_百忙无果",
             "name": "百忙无果[js]",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/百忙无果.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/百忙无果.js"
         },
         {
             "key": "Gitcafe",
@@ -113,7 +113,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/玩偶哥哥.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/玩偶哥哥.json"
         },
         {
             "key": "csp_XYQHikerAL_云盘资源",
@@ -123,7 +123,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/云盘资源.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/云盘资源.json"
         },
         {
             "key": "push_agent",
@@ -274,7 +274,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/Bili.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/Bili.json"
         },
         {
             "key": "csp_XYQHiker_兔小贝",
@@ -284,7 +284,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/兔小贝.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/兔小贝.json"
         },
         {
             "key": "csp_XYQHiker_兔小贝2",
@@ -294,7 +294,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/兔小贝2.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/兔小贝2.json"
         },
         {
             "key": "csp_XYQHiker_播视童趣",
@@ -304,7 +304,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/播视童趣.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/播视童趣.json"
         },
         {
             "key": "csp_Bili幼儿",
@@ -314,7 +314,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/幼儿乐园.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/幼儿乐园.json"
         },
         {
             "key": "csp_Bili少儿",
@@ -324,7 +324,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/少儿教育.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/少儿教育.json"
         },
         {
             "key": "csp_Bili小学",
@@ -334,7 +334,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/小学课堂.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/小学课堂.json"
         },
         {
             "key": "csp_Bili初中",
@@ -344,7 +344,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/初中课堂.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/初中课堂.json"
         },
         {
             "key": "csp_Bili高中",
@@ -354,17 +354,17 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/高中课堂.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/高中课堂.json"
         },
         {
             "key": "JS哔哩直播",
             "name": "哔哩直播[js]",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/哔哩直播.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/哔哩直播.js"
         },
         {
             "key": "csp_Bili短剧",
@@ -374,7 +374,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/Bili短剧.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/Bili短剧.json"
         },
         {
             "key": "csp_短剧网",
@@ -393,7 +393,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/农民影视.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/农民影视.json"
         },
         {
             "key": "csp_XYQBiu_88看球",
@@ -403,7 +403,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/88看球.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/88看球.json"
         },
         {
             "key": "csp_Yj1211",
@@ -419,8 +419,8 @@
             "key": "DRJS_虎牙",
             "name": "虎牙直播(JS)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/虎牙直播.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/虎牙直播.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -433,7 +433,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/虎牙直播.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/虎牙直播.json"
         },
         {
             "key": "csp_XYQHiker_斗鱼直播",
@@ -443,7 +443,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/斗鱼直播.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/斗鱼直播.json"
         },
         {
             "key": "csp_XYQBiu_网易CC直播",
@@ -453,7 +453,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/xyq/网易CC直播.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/xyq/网易CC直播.json"
         }
     ],
     "parses": [

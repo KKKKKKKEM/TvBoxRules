@@ -57,8 +57,8 @@
             "name": "🐼️┃电视┃直播",
             "type": 3,
             "searchable": 0,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/live2vod.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/feimaolive.json"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/live2vod.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/feimaolive.json"
         },
         {
             "key": "豆瓣",
@@ -67,7 +67,7 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/douban.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/douban.json"
         },
         {
             "key": "996影院",
@@ -102,8 +102,8 @@
             "key": "drpy_js_磁力熊",
             "name": "磁力熊[js]|索引",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/cilixiongp.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/cilixiongp.js",
             "playerType": "1",
             "searchable": 0,
             "quickSearch": 0,
@@ -131,7 +131,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/wogg.json"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/wogg.json"
         },
         {
             "key": "影视车",
@@ -142,7 +142,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/wogg.json"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/wogg.json"
         },
         {
             "key": "Wobg",
@@ -153,7 +153,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/wogg.json"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/wogg.json"
         },
         {
             "key": "Pan99",
@@ -408,7 +408,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/jianpian.json$$$1",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/jianpian.json$$$1",
             "timeout": 60
         },
         {
@@ -502,8 +502,8 @@
             "key": "drpy_js_美剧迷",
             "name": "美剧迷[js]|磁",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/meijumi.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/meijumi.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -512,8 +512,8 @@
             "key": "drpy_js_KKPANS",
             "name": "KK盘[js]|夸",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/kkpans.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/kkpans.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -522,8 +522,8 @@
             "key": "drpy_js_meow",
             "name": "MEOW[js]|搜",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/meow.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/meow.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -532,8 +532,8 @@
             "key": "drpy_js_愛盤搜",
             "name": "爱盘搜[js]|夸",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/aipanso.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/aipanso.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -542,8 +542,8 @@
             "key": "drpy_js_奇妙搜",
             "name": "奇妙搜[js]|夸",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/qimiao.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/qimiao.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -552,8 +552,8 @@
             "key": "drpy_js_dydhhy",
             "name": "dydhhy[js]|夸",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/dydhhy.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/dydhhy.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -562,8 +562,8 @@
             "key": "drpy_js_人人影视",
             "name": "人人影视[js]|搜",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/yyets.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/yyets.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -572,16 +572,16 @@
             "key": "drpy_js_低端影视",
             "name": "低端影视[js]|夸",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/ddys.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/ddys.js",
             "changeable": 1
         },
         {
             "key": "drpy_js_新版6V",
             "name": "新版6V[js]|磁",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/xb6v.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/xb6v.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -590,8 +590,8 @@
             "key": "drpy_js_97tvs",
             "name": "高清MP4吧[js]|磁",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/97tvs.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/97tvs.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -600,8 +600,8 @@
             "key": "drpy_js_rrdyw",
             "name": "人人電影網[js]|磁",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/rrdyw.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/rrdyw.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -610,8 +610,8 @@
             "key": "drpy_js_hotcat",
             "name": "热剧猫[js]",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/hotcat.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/hotcat.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -662,8 +662,8 @@
             "key": "drpy_js_MP4US",
             "name": "MP4电影[js]|磁",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/mp4us.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/mp4us.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -672,8 +672,8 @@
             "key": "drpy_js_电影港",
             "name": "电影港[js]|磁",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/dygang.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/dygang.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -682,8 +682,8 @@
             "key": "drpy_js_极影网",
             "name": "极影网[js]|磁",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/jiyingwp.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/jiyingwp.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -697,7 +697,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/4khdr.txt$$$1"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/4khdr.txt$$$1"
         },
         {
             "key": "UP云搜",
@@ -719,8 +719,8 @@
             "key": "drpy_js_酷吧",
             "name": "酷吧[js]|磁",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/kuba.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/kuba.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -757,7 +757,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/alistjar.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/alistjar.json"
         },
         {
             "key": "快看",
@@ -802,7 +802,7 @@
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/duboku.json$$$"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/duboku.json$$$"
         },
         {
             "key": "haiwaikan",
@@ -947,7 +947,7 @@
             "key": "愛看",
             "name": "愛看",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/ikanbot_open.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/ikanbot_open.js",
             "searchable": 1,
             "changeable": 0
         },
@@ -955,11 +955,11 @@
             "key": "drpy_js_Alist",
             "name": "网盘 | Alist[js]",
             "type": 3,
-            "api": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/alist.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/alist.min.js",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/js/alist.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/js/alist.json"
         },
         {
             "key": "MV_vod",
@@ -1002,7 +1002,7 @@
         {
             "name": "live.ipv6.local",
             "type": 0,
-            "url": "https://raw.gitmirror.com/KKKKKKKEM/TvBoxRules/main/pg/lib/live.ipv6.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/KKKKKKKEM/TvBoxRules/main/pg/lib/live.ipv6.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
